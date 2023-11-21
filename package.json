@@ -1,0 +1,20 @@
+{
+  "name": "Bot",
+  "version": "1.0.0",
+  "description": "My First Discord Bot",
+  "main": "index.js",
+  "author": "Dark045 and Ogoidmatos",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "eslint": "^7.18.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "nodemon": "^2.0.22"
+  }
+}
